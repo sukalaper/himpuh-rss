@@ -5,7 +5,7 @@ from datetime import datetime, timezone, timedelta
 import re
 
 # Parse the website
-url = "https://himpuh.or.id/blog"
+url = "https://himpuh.or.id/blog/kategori/2/berita"
 response = requests.get(url)
 soup = BeautifulSoup(response.text, 'html.parser')
 
