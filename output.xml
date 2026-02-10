@@ -2,11 +2,18 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Himpuh Blog Feed</title>
-    <link>https://himpuh.or.id/blog</link>
+    <link>https://himpuh.or.id/blog/kategori/2/berita</link>
     <description>A feed of Himpuh blog posts</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Feb 2026 07:11:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 10:49:17 +0000</lastBuildDate>
+    <item>
+      <title>Pakar Hukum UII Pertanyakan Unsur Kerugian Negara dalam Kasus Kuota Haji Tambahan</title>
+      <link>https://himpuh.or.id/blog/detail/3875/pakar-hukum-uii-pertanyakan-unsur-kerugian-negara-dalam-kasus-kuota-haji-tambahan</link>
+      <description>Guru Besar Hukum Pidana Universitas Islam Indonesia (UII) Yogyakarta, Mudzakkir, mengkritik penetapan unsur kerugian negara dalam kasus dugaan korupsi kuota haji tambahan yang menjerat mantan Menteri Agama Yaqut Cholil Qoumas sebagai tersangka oleh Komisi Pemberantasan Korupsi (KPK).</description>
+      <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1770682332_IrvErwliJ4PNKpzWuhgJ9kPH1gskvq2BKLaNrQgW.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 10 Feb 2026 09:00:08 +0700</pubDate>
+    </item>
     <item>
       <title>Intip Canggihnya Sistem Pengeras Suara di Masjidil Haram, Nyaris Tak Pernah Gangguan</title>
       <link>https://himpuh.or.id/blog/detail/3874/intip-canggihnya-sistem-pengeras-suara-di-masjidil-haram-nyaris-tak-pernah-gangguan</link>
@@ -22,34 +29,11 @@
       <pubDate>Tue, 10 Feb 2026 13:20:48 +0700</pubDate>
     </item>
     <item>
-      <title>Regulasi Haji 1447H / 2026M</title>
-      <link>https://himpuh.or.id/blog/detail/3367/regulasi-haji-1447h-2026m</link>
-      <description>Daftar regulasi Haji 1447 H / 2026 M :&#13;
-&#13;
-&#13;
-&#13;
-No&#13;
-Tanggal&#13;
-Jenis&#13;
-Nomor&#13;
-Perihal&#13;
-&#13;
-&#13;
-1&#13;
-11 Aug 2025&#13;
-SE Dirjen PHU Kemenag RI&#13;
-B-11005/DJ/Dt.II.IV.2/</description>
-      <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1767015626_osVSECWp1c3ttDiJusxhtzWqL026Vzhzx2NFYtm5.webp" length="0" type="image/webp"/>
-      <pubDate>Thu, 31 Dec 2026 23:59:35 +0700</pubDate>
-    </item>
-    <item>
-      <title>Penyelenggaran Haji 2026M/1447H</title>
-      <link>https://himpuh.or.id/blog/detail/3554/penyelenggaran-haji-2026m1447h</link>
-      <description>Regulasi Haji&#13;
-Tata Cara Pelunasan Haji Khusus&#13;
-Berita Haji</description>
-      <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1767015689_JGUWLDpsyeJKJL6lsKkYcrGVE7R9xStNx3V6bzsG.webp" length="0" type="image/webp"/>
-      <pubDate>Thu, 31 Dec 2026 23:59:59 +0700</pubDate>
+      <title>Jangan Lakukan Hal Ini Jika Provider Visa Anda Tak Ingin Terkena Suspend Kementerian Haji dan Umrah Saudi</title>
+      <link>https://himpuh.or.id/blog/detail/3878/jangan-lakukan-hal-ini-jika-provider-visa-anda-tak-ingin-terkena-suspend-kementerian-haji-dan-umrah-saudi</link>
+      <description>Wakil Ketua Umum HIMPUH Bidang Umrah, Fatma Kartika Sari, menjelaskan bahwa terdapat beberapa kesalahan yang kerap dilakukan oleh provider atau external agent sehingga memicu sanksi dari otoritas Arab Saudi.</description>
+      <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1770709169_prLUyZsmEaJ7q1Ez2q1Qkf1Npb21k5ftIibGvwzz.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 10 Feb 2026 14:30:29 +0700</pubDate>
     </item>
   </channel>
 </rss>
