@@ -6,14 +6,7 @@
     <description>A feed of Himpuh blog posts</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Apr 2026 02:36:01 +0000</lastBuildDate>
-    <item>
-      <title>Mulai 18 April, Umrah Hanya Dibuka untuk Warga Saudi</title>
-      <link>https://himpuh.or.id/blog/detail/4092/mulai-18-april-umrah-hanya-dibuka-untuk-warga-saudi</link>
-      <description>Pemerintah Arab Saudi menetapkan pembatasan akses ibadah umrah menjelang musim haji 2026. Dalam periode 18 hingga 30 April 2026, umrah hanya dibuka khusus bagi warga negara Saudi, sementara jemaah internasional tidak lagi diperkenankan masuk.</description>
-      <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1775099875_rT879oMT3po5sEIMBZFG3uEQmrs8Jv1yr41s0LQT.webp" length="0" type="image/webp"/>
-      <pubDate>Thu, 02 Apr 2026 10:14:15 +0700</pubDate>
-    </item>
+    <lastBuildDate>Sat, 04 Apr 2026 07:07:06 +0000</lastBuildDate>
     <item>
       <title>Lengkap! Ini Jadwal Perjalanan Haji 2026 dari Keberangkatan hingga Kepulangan</title>
       <link>https://himpuh.or.id/blog/detail/4090/lengkap-ini-jadwal-perjalanan-haji-2026-dari-keberangkatan-hingga-kepulangan</link>
@@ -34,6 +27,13 @@
       <description>Kabar baik datang bagi calon jemaah haji Indonesia. Pemerintah Arab Saudi membuka peluang penggantian jemaah yang batal berangkat, meski visa telah diterbitkan.</description>
       <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1775211514_C17CHole4mw5yGblsVcYMqV7Qx1MB6Nrcbr2hJSk.webp" length="0" type="image/webp"/>
       <pubDate>Fri, 03 Apr 2026 16:50:50 +0700</pubDate>
+    </item>
+    <item>
+      <title>Begini Strategi Pemerintah Tutup Celah Praktik Haji Ilegal</title>
+      <link>https://himpuh.or.id/blog/detail/4095/begini-strategi-pemerintahtutup-celah-praktik-haji-ilegal</link>
+      <description>Menjelang musim haji 2026, Kementerian Haji dan Umrah (Kemenhaj) memperketat pengawasan untuk mencegah praktik haji ilegal.</description>
+      <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1775271655_SbnycpnkEMD9kDssCdzFjTaaLYMoPnJ7CXvv3PTM.webp" length="0" type="image/webp"/>
+      <pubDate>Sat, 04 Apr 2026 09:56:22 +0700</pubDate>
     </item>
   </channel>
 </rss>
