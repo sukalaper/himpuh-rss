@@ -122,5 +122,9 @@ for article in articles:
         entry.enclosure(url=article['image'], length=0, type='image/webp')
 
 # Save the RSS feed
+# Save the RSS feed dengan header yang bener
+rss_feed = feed.rss_str(pretty=True)
 with open('output.xml', 'wb') as f:
-    f.write(feed.rss_str(pretty=True))
+    # feedgen otomatis nambahin <?xml version="1.0" encoding="UTF-8"?> 
+    # kalau kita panggil rss_str() langsung dari objek feed-nya.
+    f.write(rss_feed)
