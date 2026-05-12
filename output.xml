@@ -2,15 +2,66 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Himpuh Blog Feed</title>
-    <link>https://himpuh.or.id/blog/kategori/2/berita</link>
+    <link>https://raw.githubusercontent.com/sukalaper/himpuh-rss/main/output.xml</link>
     <description>A feed of Himpuh blog posts</description>
+    <atom:link href="https://raw.githubusercontent.com/sukalaper/himpuh-rss/main/output.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 May 2026 13:05:08 +0000</lastBuildDate>
+    <language>id</language>
+    <lastBuildDate>Tue, 12 May 2026 13:14:14 +0000</lastBuildDate>
+    <item>
+      <title>Jamaah Haji Aceh Kembali Terima Wakaf Baitul Asyi, Tiap Orang Dapat 2.000 Riyal</title>
+      <link>https://himpuh.or.id/blog/detail/4302/jamaah-haji-aceh-kembali-terima-wakaf-baitul-asyi-tiap-orang-dapat-2000-riyal</link>
+      <description>Tradisi pembagian dana Wakaf Baitul Asyi kembali dirasakan jemaah haji asal Aceh pada musim haji 1447 H/2026 M. Tahun ini, setiap jemaah menerima bantuan sebesar 2.000 riyal Saudi atau setara sekitar Rp9,2 juta per orang.</description>
+      <guid isPermaLink="true">https://himpuh.or.id/blog/detail/4302/jamaah-haji-aceh-kembali-terima-wakaf-baitul-asyi-tiap-orang-dapat-2000-riyal</guid>
+      <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1778489427_pOGuUAZXtBcspILKooimRzWJjml7vGbeqoM22bEd.webp" length="0" type="image/webp"/>
+      <pubDate>Mon, 11 May 2026 15:43:19 +0700</pubDate>
+    </item>
+    <item>
+      <title>Puncak Haji Sudah Dekat, Jemaah Diimbau Hemat Tenaga</title>
+      <link>https://himpuh.or.id/blog/detail/4303/puncak-haji-sudah-dekat-jemaah-diimbau-hemat-tenaga</link>
+      <description>Kementerian Haji dan Umrah (Kemenhaj) RI mengimbau seluruh jemaah haji Indonesia untuk mulai menghemat tenaga menjelang fase puncak ibadah haji 1447 H/2026 M.</description>
+      <guid isPermaLink="true">https://himpuh.or.id/blog/detail/4303/puncak-haji-sudah-dekat-jemaah-diimbau-hemat-tenaga</guid>
+      <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1778499059_lgeW6LAg6qrBmGIGas2q3cPSWMwuIIWSIrihwNwe.webp" length="0" type="image/webp"/>
+      <pubDate>Mon, 11 May 2026 18:19:57 +0700</pubDate>
+    </item>
+    <item>
+      <title>Banyak yang Belum Tahu, Ini Perbedaan Murur dan Tanazul dalam Ibadah Haji</title>
+      <link>https://himpuh.or.id/blog/detail/4304/banyak-yang-belum-tahu-ini-perbedaan-murur-dan-tanazul-dalam-ibadah-haji</link>
+      <description>Penyelenggaraan ibadah haji 1447 H/2026 M menghadirkan sejumlah penyesuaian penting, terutama saat fase puncak ibadah di Arafah, Muzdalifah, dan Mina (Armuzna).</description>
+      <guid isPermaLink="true">https://himpuh.or.id/blog/detail/4304/banyak-yang-belum-tahu-ini-perbedaan-murur-dan-tanazul-dalam-ibadah-haji</guid>
+      <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1778499649_WFf1ABUq8fsi7JBixkDYC3QnvzACDK3TxvcknSs6.webp" length="0" type="image/webp"/>
+      <pubDate>Mon, 11 May 2026 18:33:49 +0700</pubDate>
+    </item>
+    <item>
+      <title>Cuaca Saudi Capai 45 Derajat, Ini Cara Aman Jamaah Haji Beraktivitas di Luar Ruangan</title>
+      <link>https://himpuh.or.id/blog/detail/4305/cuaca-saudi-capai-45-derajat-ini-cara-aman-jamaah-haji-beraktivitas-di-luar-ruangan</link>
+      <description>Cuaca panas ekstrem yang melanda Arab Saudi menjadi tantangan serius bagi jamaah haji, khususnya asal Indonesia yang tidak terbiasa dengan suhu tinggi hingga mencapai 45 derajat Celsius. Kondisi ini meningkatkan risiko gangguan kesehatan, mulai dari dehidrasi hingga heat stroke, terutama saat aktivitas ibadah banyak dilakukan di luar ruangan.</description>
+      <guid isPermaLink="true">https://himpuh.or.id/blog/detail/4305/cuaca-saudi-capai-45-derajat-ini-cara-aman-jamaah-haji-beraktivitas-di-luar-ruangan</guid>
+      <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1778555529_uPP8Z0f6Z0k83CSDuQfIB74G5Hr2ExKDMsSQ5mT3.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 12 May 2026 07:00:39 +0700</pubDate>
+    </item>
+    <item>
+      <title>Resiko Heat Stroke Saat Haji, Jamaah dengan Kondisi Ini Harus Lebih Waspada</title>
+      <link>https://himpuh.or.id/blog/detail/4306/resiko-heat-stroke-saat-haji-jamaah-dengan-kondisi-ini-harus-lebih-waspada</link>
+      <description>Cuaca panas ekstrem di Tanah Suci menjadi ancaman serius bagi kesehatan jamaah haji, terutama bagi kelompok tertentu yang memiliki kondisi tubuh lebih rentan terhadap perubahan suhu dan kekurangan cairan. Risiko yang muncul bukan sekadar rasa lelah, tetapi juga bisa berdampak pada kerja jantung hingga fungsi ginjal.</description>
+      <guid isPermaLink="true">https://himpuh.or.id/blog/detail/4306/resiko-heat-stroke-saat-haji-jamaah-dengan-kondisi-ini-harus-lebih-waspada</guid>
+      <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1778555790_UzuN5u0sMOwyOccArcGoSxyrLJLFEBLUGNCddpwS.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 12 May 2026 07:30:15 +0700</pubDate>
+    </item>
+    <item>
+      <title>Bandara Soetta Berangkatkan 20 Ribu Jemaah, Jadi Bandara Tersibuk Kedua untuk Penerbangan Haji</title>
+      <link>https://himpuh.or.id/blog/detail/4307/bandara-soetta-berangkatkan-20-ribu-jemaah-jadi-bandara-tersibuk-kedua-untuk-penerbangan-haji</link>
+      <description>Arus keberangkatan jamaah haji Indonesia terus bergerak masif. Sepanjang periode 21 April hingga 9 Mei 2026, Bandara Internasional Soekarno-Hatta (Soetta), Tangerang, telah melayani 20.031 calon haji menuju Tanah Suci melalui 47 kelompok terbang (kloter), menjadikannya sebagai bandara tersibuk kedua untuk operasional penerbangan haji tahun ini.</description>
+      <guid isPermaLink="true">https://himpuh.or.id/blog/detail/4307/bandara-soetta-berangkatkan-20-ribu-jemaah-jadi-bandara-tersibuk-kedua-untuk-penerbangan-haji</guid>
+      <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1778555932_RysjqyX8Uu22SW3mXcy3f6jNMPCX1sKcPpHWAa5z.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 12 May 2026 08:00:35 +0700</pubDate>
+    </item>
     <item>
       <title>Petugas Bandara Jeddah Bongkar Koper Jemaah Haji karena Benda Misterius, Isinya Ternyata Tempe Orek</title>
       <link>https://himpuh.or.id/blog/detail/4308/petugas-bandara-jeddah-bongkar-koper-jemaah-haji-karena-benda-misterius-isinya-ternyata-tempe-orek-</link>
       <description>Pemeriksaan bagasi jemaah haji Indonesia di Bandara Internasional King Abdulaziz (KAIA), Jeddah, mendadak menarik perhatian petugas setempat. Sebuah koper milik jemaah asal embarkasi Palembang sempat dicurigai setelah layar X-Ray menampilkan tumpukan benda tak biasa dalam jumlah besar.</description>
+      <guid isPermaLink="true">https://himpuh.or.id/blog/detail/4308/petugas-bandara-jeddah-bongkar-koper-jemaah-haji-karena-benda-misterius-isinya-ternyata-tempe-orek-</guid>
       <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1778556265_8ZuylXxssm771d6GWmHOLMxSHGmyzdU9reFPNsZ9.webp" length="0" type="image/webp"/>
       <pubDate>Tue, 12 May 2026 08:30:30 +0700</pubDate>
     </item>
@@ -18,6 +69,7 @@
       <title>Jemaah Haji RI Wafat di Arab Saudi Bertambah Jadi 24 Orang, Puluhan Masih Dirawat</title>
       <link>https://himpuh.or.id/blog/detail/4309/jemaah-haji-ri-wafat-di-arab-saudi-bertambah-jadi-24-orang-puluhan-masih-dirawat</link>
       <description>Jumlah jemaah haji Indonesia yang meninggal dunia di Arab Saudi kembali bertambah. Hingga 11 Mei 2026, total 24 jemaah dilaporkan wafat, sementara puluhan lainnya masih menjalani perawatan di rumah sakit setempat di tengah berlangsungnya rangkaian ibadah haji.</description>
+      <guid isPermaLink="true">https://himpuh.or.id/blog/detail/4309/jemaah-haji-ri-wafat-di-arab-saudi-bertambah-jadi-24-orang-puluhan-masih-dirawat</guid>
       <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1778556469_6H6Bo2O2F2uyf95NZmitTWu3QedzbwCM1VIyw0D1.webp" length="0" type="image/webp"/>
       <pubDate>Tue, 12 May 2026 09:00:44 +0700</pubDate>
     </item>
@@ -25,6 +77,7 @@
       <title>Arab Saudi Uji Coba Bus Tanpa Sopir di Masjid Quba, Angkut Jamaah dengan Teknologi AI</title>
       <link>https://himpuh.or.id/blog/detail/4310/arab-saudi-uji-coba-bus-tanpa-sopir-di-masjid-quba-angkut-jamaah-dengan-teknologi-ai</link>
       <description>Arab Saudi mulai menguji coba layanan transportasi tanpa sopir untuk melayani mobilitas jamaah dan pengunjung di kawasan Masjid Quba, Madinah. Langkah ini menjadi bagian dari dorongan besar Kerajaan dalam mempercepat transformasi digital dan pengembangan transportasi cerdas berbasis kecerdasan buatan (AI).</description>
+      <guid isPermaLink="true">https://himpuh.or.id/blog/detail/4310/arab-saudi-uji-coba-bus-tanpa-sopir-di-masjid-quba-angkut-jamaah-dengan-teknologi-ai</guid>
       <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1778556567_4lilMx9StRZzgqLWlteCTTktpkWYjhy2mBzp0wlT.webp" length="0" type="image/webp"/>
       <pubDate>Tue, 12 May 2026 10:00:54 +0700</pubDate>
     </item>
@@ -32,6 +85,7 @@
       <title>Saudi Resmi Terapkan Sistem Kontrak Digital Untuk Musim Umrah 1448 H, Pengajuan Visa Dibuka Akhir Mei</title>
       <link>https://himpuh.or.id/blog/detail/4311/saudi-resmi-terapkan-sistem-kontrak-digital-untuk-musim-umrah-1448-h-pengajuan-visa-dibuka-akhir-mei</link>
       <description>Arab Saudi terus mempercepat digitalisasi layanan haji dan umrah. Menjelang musim Umrah 1448 Hijriah, Kementerian Haji dan Umrah Arab Saudi resmi meluncurkan layanan kontrak digital untuk proses kerja sama dengan agen luar negeri melalui platform Masar Nusuk.</description>
+      <guid isPermaLink="true">https://himpuh.or.id/blog/detail/4311/saudi-resmi-terapkan-sistem-kontrak-digital-untuk-musim-umrah-1448-h-pengajuan-visa-dibuka-akhir-mei</guid>
       <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1778556924_jkIpLsVmBnZKsqqpnlPuoxiTtZ2BetWHEfGit6va.webp" length="0" type="image/webp"/>
       <pubDate>Tue, 12 May 2026 10:30:28 +0700</pubDate>
     </item>
